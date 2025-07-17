@@ -47,5 +47,5 @@ Feel free to fork it or build on top of it.
 
 ---
 
-📎 **Author**: Amer Hariri
+📎 **Author**: Amer Hariri.
 📬 For questions: open an issue or contact me.
